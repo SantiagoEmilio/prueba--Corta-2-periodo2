@@ -5,11 +5,6 @@
     background-color: darkgreen;
 }
 
-.inicio{
-    width:2rem;
-    height:1rem;
-    border:1px;
-    background-color: cornflowerblue;
-    grid-row:2rem;
-    grid-column:3rem;
+.ai{
+   border: 2px solid black;
 }

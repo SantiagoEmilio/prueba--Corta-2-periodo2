@@ -1,10 +1,8 @@
 let header_santi = document.querySelector(".header inicio");
 
 header_santi.innerHTML=`
-<header class="inicio">
-    <div>Bloque 1</div>
-    <div>bloque 2</div>
-    <div>bloque 3</div>
-</header>
+    <div class="Bloque_1">Bloque 1</div>
+    <div class="bloque_2">bloque 2</div>
+    <div class="bloque 3">bloque 3</div>
 
 `;

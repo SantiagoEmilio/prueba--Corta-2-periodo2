@@ -1,0 +1,15 @@
+.header_inicio{
+    width:80rem;
+    height:1rem;
+    border:4px solid black;
+    background-color: darkgreen;
+}
+
+.inicio{
+    width:2rem;
+    height:1rem;
+    border:1px;
+    background-color: cornflowerblue;
+    grid-row:2rem;
+    grid-column:3rem;
+}
